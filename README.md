@@ -4,7 +4,7 @@
 
 # Alexander Matalin <img src="https://media.giphy.com/media/WOWIEX0s7emBKWGspa/giphy.gif" width="32">
 
-**aka [@MatalinAA](https://github.com/MatalinAA)** · Full-cycle vibe-coder · Websites → Landing pages → CRM
+**aka [@MatalinAA](https://github.com/MatalinAA)** · Full-cycle vibe-coder · Websites → CRM → AI-ассистенты
 
 [![GitHub followers](https://img.shields.io/github/followers/MatalinAA?style=for-the-badge&logo=github&color=7C3AED&labelColor=0F172A)](https://github.com/MatalinAA)
 [![Profile views](https://img.shields.io/badge/👁️%20Profile%20views-Alexander%20Matalin-7C3AED?style=for-the-badge&labelColor=0F172A)](https://github.com/MatalinAA)
@@ -65,13 +65,68 @@
 </td>
 <td align="center" width="33%">
 
+### 🧠 AI-ассистенты
+Умные помощники для бизнеса: поддержка клиентов 24/7, продажи, консультации, разбор заявок и документов. Обучаю под ваши данные, процессы и tone of voice, интегрирую в сайт, Telegram и CRM.
+
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+
 ### ✨ UI/UX
 Современный дизайн «из коробки»: тёмные темы, градиенты, микроанимации, типографика — продукт должен *выглядеть* дорого.
+
+</td>
+<td align="center" width="33%">
+
+### ⚙️ Интеграции
+Связываю всё в единую систему: платёжки, мессенджеры, CRM, AI-модели и внешние API — данные ходят туда, где они нужны.
+
+</td>
+<td align="center" width="33%">
+
+### 📦 Под ключ
+Полный цикл: идея → дизайн → разработка → деплой → поддержка. От вас задача, от меня — готовый работающий продукт.
 
 </td>
 </tr>
 </table>
 </div>
+
+---
+
+## 🤖 AI-ассистенты для бизнеса
+
+Отдельное направление, которым я особенно горю — создание **AI-ассистентов**, которые реально работают, а не просто болтают.
+
+<table>
+<tr>
+<td width="50%">
+
+**💬 Что умеют:**
+- Отвечают клиентам 24/7 в чате, Telegram, WhatsApp
+- Консультируют по товарам, услугам и ценам
+- Квалифицируют и разогревают лиды
+- Оформляют заказы и брони
+- Читают документы, PDF и таблицы
+- Подсказывают менеджерам на основе базы знаний
+
+</td>
+<td width="50%">
+
+**🧩 Как внедряю:**
+- Обучение на **ваших данных**: сайт, прайсы, база знаний, FAQ
+- Память диалога и контекст клиента
+- Голос и текст, стриминг ответов
+- Интеграция с **CRM**: заявка сразу падает в воронку
+- Эскалация на живого оператора
+- Дашборд с аналитикой диалогов и конверсии
+
+</td>
+</tr>
+</table>
+
+> 🎯 **Результат:** меньше рутины у команды, быстрее ответы клиентам, больше закрытых сделок — а ассистент работает, пока вы спите.
 
 ---
 
@@ -103,6 +158,13 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![REST API](https://img.shields.io/badge/-REST%20API-FF6B6B?style=for-the-badge&logoColor=white)
 
+**AI & Automation**
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-10B981?style=for-the-badge&logoColor=white)
+![RAG](https://img.shields.io/badge/-RAG-7C3AED?style=for-the-badge&logoColor=white)
+![Telegram Bots](https://img.shields.io/badge/-Telegram%20Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+
 **Tools & Workflow**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -117,58 +179,10 @@
 ## 💼 Направления проектов
 
 ```
-┌─────────────────────────────────────────────────────────┐
-│                  ПОРТФЕЛИО ВАЙБ-КОДЕРА                  │
-├─────────────────────────────────────────────────────────┤
-│                                                         │
-│  🌐 Веб-сайты ──────────▶ корпоратив, портфолио, услуги │
-│  🎨 Лендинги ───────────▶ продукты, события, промо      │
-│  🏢 CRM-системы ────────▶ продажи, клиенты, аналитика   │
-│  🧩 Дашборды ───────────▶ метрики, учёт, контроль       │
-│  🤖 Боты и скрипты ─────▶ автоматизация, парсинг        │
-│                                                         │
-│  Процесс: идея → вайб → MVP → итерации → продакшен 🚀  │
-└─────────────────────────────────────────────────────────┘
-```
-
-### 🔥 Что уже умею строить в CRM
-
-- **Карточки клиентов** — контакты, история, статусы, теги
-- **Воронки сделок** — канбан, этапы, drag-and-drop
-- **Роли и доступы** — админ, менеджер, наблюдатель
-- **Дашборды** — выручка, конверсия, активность в реальном времени
-- **Уведомления** — email, Telegram, внутренние
-- **Интеграции** — платёжки, мессенджеры, внешние API
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatalinAA&show_icons=true&hide_border=true&count_private=true&bg_color=0F172A&title_color=7C3AED&icon_color=7C3AED&text_color=94A3B8" alt="MatalinAA stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatalinAA&layout=compact&hide_border=true&bg_color=0F172A&title_color=7C3AED&text_color=94A3B8" alt="Top languages"/>
-</div>
-
----
-
-## 🤝 Давайте работать
-
-Открыт к интересным проектам — от лендинга за выходные до полной CRM для бизнеса.
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/📧-Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matalin@inbox.ru)
-[![Telegram](https://img.shields.io/badge/✈️-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MatalinAA)
-[![GitHub](https://img.shields.io/badge/🐙-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MatalinAA)
-
-**⭐ Если вам откликнулось — поставьте звезду репозиториям, это мотивирует кодить ещё быстрее!**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:10B981,100:38B2AC&height=120&section=footer" alt="wave" />
-
-</div>
-
----
-
-<div align="center">
-<sub>Сделано с ❤️ и большим количеством кофе в режиме вайб-кодинга · © 2026 Alexander Matalin</sub>
-</div>
+┌──────────────────────────────────────────────────────────┐
+│                  ПОРТФЕЛИО ВАЙБ-КОДЕРА                   │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  🌐 Веб-сайты ──────────▶ корпоратив, портфолио, услуги  │
+│  🎨 Лендинги ───────────▶ продукты, события, промо       │
+│  🏢 CRM-системы ────────▶ продажи, клиенты, аналити
