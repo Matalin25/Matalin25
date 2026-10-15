@@ -158,6 +158,7 @@
 <div align="center">
 
 [![Email](https://img.shields.io/badge/📧-Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matalin@inbox.ru)
+[![Telegram](https://img.shields.io/badge/✈️-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MatalinAA)
 [![GitHub](https://img.shields.io/badge/🐙-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MatalinAA)
 
 **⭐ Если вам откликнулось — поставьте звезду репозиториям, это мотивирует кодить ещё быстрее!**
